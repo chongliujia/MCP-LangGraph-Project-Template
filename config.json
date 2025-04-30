@@ -1,0 +1,5 @@
+{
+  "model": "deepseek-chat",
+  "temperature": 0.1,
+  "provider": "deepseek"
+}

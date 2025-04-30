@@ -1,0 +1,6 @@
+2025-04-30 17:05:51,345 - mcp_framework - INFO - 应用程序日志已初始化: app=mcp_framework, level=INFO, file=/Users/jiachongliu/My-Github-Project/mcp_langgraph_framework/logs/mcp_framework.log
+2025-04-30 17:05:51,346 - mcp_framework - INFO - 加载配置: {'model': 'deepseek-chat', 'temperature': 0.1, 'provider': 'deepseek', 'api_key': 'sk-6542d2c775ea41b190b3ef7845b1fb35'}
+2025-04-30 17:05:51,433 - mcp_framework - INFO - 运行查询: 你是谁？
+2025-04-30 17:10:46,835 - mcp_framework - INFO - 应用程序日志已初始化: app=mcp_framework, level=INFO, file=/Users/jiachongliu/My-Github-Project/mcp_langgraph_framework/logs/mcp_framework.log
+2025-04-30 17:10:46,835 - mcp_framework - INFO - 加载配置: {'model': 'deepseek-chat', 'temperature': 0.1, 'provider': 'deepseek', 'api_key': 'sk-6542d2c775ea41b190b3ef7845b1fb35'}
+2025-04-30 17:10:46,907 - mcp_framework - INFO - 运行查询: 你是谁？
